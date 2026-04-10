@@ -1,5 +1,7 @@
-# TMLaboratorio04
+# TECNOLOGIAS MOVILES LABORATORIO VISTAS
+Laboratorio04. Vistas. Parte I
 
+# Screenshots
 Ejercicio con AutoCompleteTextView
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/09ac909e-0b79-4616-8e2e-56d994290926" />
