@@ -10,7 +10,8 @@ Ejercicio con AutoCompleteTextView
 
 Espacio de trabajo
 
-<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/da288959-e47c-47bb-adb8-af2b1ed86d47" />
+<img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/6fd8d3d5-17ff-46bc-aa06-cb608ec0116e" />
+
 
 
 
