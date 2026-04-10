@@ -8,4 +8,9 @@ Ejercicio con AutoCompleteTextView
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/8941f2f0-05ea-4d08-93e1-2601e42afe54" />
 
+Espacio de trabajo
+
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/da288959-e47c-47bb-adb8-af2b1ed86d47" />
+
+
 
