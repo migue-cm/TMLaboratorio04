@@ -6,3 +6,6 @@ Ejercicio con AutoCompleteTextView
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/0f189f59-5031-4aa9-915d-abc008a0c5d2" />
 
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/8941f2f0-05ea-4d08-93e1-2601e42afe54" />
+
+
